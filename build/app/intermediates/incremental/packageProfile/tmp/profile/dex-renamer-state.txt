@@ -1,0 +1,4 @@
+#Mon Aug 08 23:38:59 IST 2022
+base.0=/Users/harshakuruwita/Documents/Harsha/Fly/owwn/code/user-list-lcvlcb/build/app/intermediates/dex/profile/mergeDexProfile/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
